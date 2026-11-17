@@ -20,7 +20,7 @@ Python Internship – Beginner Practice
 
 1. Clone the repository:
 
-   git clone https://github.com/YOUR-USERNAME/nextbyte-python-internship.git
+   git clone https://github.com/bluddy980/nextbyte-python-internship.git
 
 2. Open the project folder:
 
