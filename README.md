@@ -15,18 +15,18 @@ Python Internship – Beginner Practice
 # WEEK2
 
 **Exercises Included**
-Sum of Natural Numbers
-Multiplication Table
-Factorial of a Number
-Check Prime Number
-Count Vowels in a String
+1-Sum of Natural Numbers
+2-Multiplication Table
+3-Factorial of a Number
+4-Check Prime Number
+5-Count Vowels in a String
 
 **Concepts Used**
-For and while loops
-User-defined functions
-Conditional statements
-Input validation (try-except)
-Menu-driven programming
+1-For and while loops
+2-User-defined functions
+3-Conditional statements
+4-Input validation (try-except)
+5-Menu-driven programming
 
 
 ## Requirements
