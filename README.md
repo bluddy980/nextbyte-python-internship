@@ -1,7 +1,7 @@
 # nextbyte-python-internship
 Python Internship – Beginner Practice
 
-**##WEEK1**
+# WEEK1
 ## Topics Covered
 1. Variables
 2. Data Types
@@ -12,7 +12,7 @@ Python Internship – Beginner Practice
 7. Even and Odd Number Checker
 8. Grade Calculator
 
-#WEEK2
+# WEEK2
 
 **Exercises Included**
 Sum of Natural Numbers
