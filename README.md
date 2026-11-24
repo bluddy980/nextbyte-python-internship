@@ -1,7 +1,7 @@
 # nextbyte-python-internship
 Python Internship – Beginner Practice
 
-
+**##WEEK1**
 ## Topics Covered
 1. Variables
 2. Data Types
@@ -12,9 +12,26 @@ Python Internship – Beginner Practice
 7. Even and Odd Number Checker
 8. Grade Calculator
 
+#WEEK2
+
+**Exercises Included**
+Sum of Natural Numbers
+Multiplication Table
+Factorial of a Number
+Check Prime Number
+Count Vowels in a String
+
+**Concepts Used**
+For and while loops
+User-defined functions
+Conditional statements
+Input validation (try-except)
+Menu-driven programming
+
+
 ## Requirements
 - Python 3
-- Visual Studio Code (recommended)
+- Visual Studio Code 
 
 ## How to Run
 
